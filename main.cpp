@@ -50,7 +50,7 @@ void scrivi_su_file(const std::vector<double>& medie, const std::string& nome_fi
 
 
 
-//Check 1per commento (prova per vedere psuh)
+//Check 1per commento (prova per vedere push)
 
 
 int main() {
