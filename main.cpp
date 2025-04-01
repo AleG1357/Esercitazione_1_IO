@@ -48,6 +48,11 @@ void scrivi_su_file(const std::vector<double>& medie, const std::string& nome_fi
     file.close();
 }
 
+
+
+//Check 1per commento (prova per vedere psuh)
+
+
 int main() {
     std::ifstream file("data.txt");
     if (!file) {
